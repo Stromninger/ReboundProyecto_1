@@ -22,4 +22,4 @@ Cuarta simulación:
 Se sigue el sistema de la segunda simulación, pero se cambió la particula a L5 y se le dió una masa de 5e23 kg para hacer notar que el sistema cambia cuando se introduce una masa de magnitud considerable, transformandose en un problema de tres cuerpos y donde ya no se sostienen los puntos lagrangianos.
 
 Quinta simulación:
-Ahora queremos analizar una distribución de partículas en 
+Ahora queremos analizar una distribución de partículas colocadas aleatoriamente en la órbita Lunar. A partir de este planteamiento, se observará que partículas al azar fueron colocadas en los puntos Lagrangeanos L4 y L5, por ende estas lograron mantener una trayectoria estable y durante el intervalo de tiempo se hace notar una mayor densidad de partículas en ese tramo. Para las partículas que fueron ubicadas de [0,2π]-{-π/3,π/3}, se logra apreciar en el gráfico de distribución como sus trayectorias difieren del trazo orbital.

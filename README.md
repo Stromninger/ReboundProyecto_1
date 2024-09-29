@@ -28,4 +28,4 @@ Sexta simulación:
 Creamos un sistema con las masas de Plutón y Caronte, y colocamos una partícula sin masa en el supuesto punto de lagrange L4 que debería crearse, pero vemos que efectivamente no se mantiene ahí pues el sistema no cumple con los requisitos de diferencias de masas entre los cuerpos principales.
 
 Séptima simulación:
-Se plantea el sistema binario de Sirio A y Sirio B y una partícula sin masa, nuevamente como la diferencia de masas es mínima (la masa de Sirio A es casi 2 veces la de Sirio B), este sistema no puede admitir puntos de lagrange.
+Se plantea el sistema binario de Sirio A, Sirio B y una partícula sin masa ubicada en un supuesto L4, nuevamente como la diferencia de masas es mínima (la masa de Sirio A es casi 2 veces la de Sirio B), este sistema no puede admitir puntos de lagrange, lo que se ve reflejado en el comportamiento del sistema entero.

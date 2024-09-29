@@ -1,7 +1,7 @@
 # ReboundProyecto_1
 Código de Rebound para el proyecto 1 de investigación de Medio Circunestelar y Sistemas Planetarios, escrito en Google Colab:
 
-Utilizamos Rebound con unidades de km, yr, kg para distancia, tiempo y masa respectivamente puesto ya que las masas y distancias del sistema no son comparables a masas solares y UA respectivamente, se hace este cambio para trabajar con números más sencillos. 
+Utilizamos Rebound con unidades de km, yr, kg para distancia, tiempo y masa respectivamente ya que las masas y distancias del sistema no son comparables a masas solares y UA respectivamente, se hace este cambio para trabajar con números más sencillos. 
 
 El código consta de 7 simulaciones, y todas comparten el mismo "setup":
 
